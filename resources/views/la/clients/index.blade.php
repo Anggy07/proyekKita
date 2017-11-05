@@ -64,7 +64,7 @@
 					@la_input($module, 'email')
 					@la_input($module, 'no_telepon')
 					@la_input($module, 'member_sejak')
-					@la_input($module, 'no_KTP')
+					@la_input($module, 'foto_ktp')
 					@la_input($module, 'pekerjaan')
 					@la_input($module, 'asal_instansi')
 					--}}

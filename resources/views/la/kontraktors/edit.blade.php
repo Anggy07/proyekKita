@@ -35,6 +35,7 @@
 					{{--
 					@la_input($module, 'name_perusahaan')
 					@la_input($module, 'alamat')
+					@la_input($module, 'email_kontraktor')
 					@la_input($module, 'no_telepon')
 					@la_input($module, 'npwp')
 					@la_input($module, 'no_akta')

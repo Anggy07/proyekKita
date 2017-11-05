@@ -59,7 +59,11 @@
                     @la_form($module)
 					
 					{{--
-					@la_input($module, 'kodePemesanan')
+					@la_input($module, 'alamatProyek')
+					@la_input($module, 'namaProyek')
+					@la_input($module, 'tanggal')
+					@la_input($module, 'deskripsi')
+					@la_input($module, 'anggaran')
 					--}}
 				</div>
 			</div>

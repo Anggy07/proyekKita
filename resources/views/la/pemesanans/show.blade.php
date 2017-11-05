@@ -107,7 +107,11 @@
 						<h4>General Info</h4>
 					</div>
 					<div class="panel-body">
-						@la_display($module, 'kodePemesanan')
+						@la_display($module, 'alamatProyek')
+						@la_display($module, 'namaProyek')
+						@la_display($module, 'tanggal')
+						@la_display($module, 'deskripsi')
+						@la_display($module, 'anggaran')
 					</div>
 				</div>
 			</div>

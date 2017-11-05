@@ -108,9 +108,9 @@
 					</div>
 					<div class="panel-body">
 						@la_display($module, 'namaSupplier')
+						@la_display($module, 'no_telepon')
 						@la_display($module, 'nama_toko')
 						@la_display($module, 'alamatSupplier')
-						@la_display($module, 'No.Telepon')
 						@la_display($module, 'emailSupplier')
 					</div>
 				</div>

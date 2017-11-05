@@ -39,7 +39,7 @@
 					@la_input($module, 'luasBangunan')
 					@la_input($module, 'jumlahLantai')
 					@la_input($module, 'garasi')
-					@la_input($module, 'harga')
+					@la_input($module, 'gambar')
 					--}}
                     <br>
 					<div class="form-group">

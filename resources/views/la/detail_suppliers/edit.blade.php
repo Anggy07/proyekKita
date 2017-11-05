@@ -34,9 +34,9 @@
 					
 					{{--
 					@la_input($module, 'namaSupplier')
+					@la_input($module, 'no_telepon')
 					@la_input($module, 'nama_toko')
 					@la_input($module, 'alamatSupplier')
-					@la_input($module, 'No.Telepon')
 					@la_input($module, 'emailSupplier')
 					--}}
                     <br>

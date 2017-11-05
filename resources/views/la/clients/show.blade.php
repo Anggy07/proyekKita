@@ -112,7 +112,7 @@
 						@la_display($module, 'email')
 						@la_display($module, 'no_telepon')
 						@la_display($module, 'member_sejak')
-						@la_display($module, 'no_KTP')
+						@la_display($module, 'foto_ktp')
 						@la_display($module, 'pekerjaan')
 						@la_display($module, 'asal_instansi')
 					</div>

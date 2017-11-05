@@ -109,6 +109,7 @@
 					<div class="panel-body">
 						@la_display($module, 'name_perusahaan')
 						@la_display($module, 'alamat')
+						@la_display($module, 'email_kontraktor')
 						@la_display($module, 'no_telepon')
 						@la_display($module, 'npwp')
 						@la_display($module, 'no_akta')

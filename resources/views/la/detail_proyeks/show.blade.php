@@ -113,7 +113,7 @@
 						@la_display($module, 'luasBangunan')
 						@la_display($module, 'jumlahLantai')
 						@la_display($module, 'garasi')
-						@la_display($module, 'harga')
+						@la_display($module, 'gambar')
 					</div>
 				</div>
 			</div>
